@@ -1,21 +1,21 @@
-# 环信配置
-im.org.name: 1117180227146208
+# 环信配置测试
+im.org.name: 1165181022177498
 im.grant.type: client_credentials
 
 
 
-#盈康在线
-im.app.name.yk: mediacalplatform-yklife
-im.client.id.yk: YXA64NC1UG70Eeicd4tjjVj5hQ
-im.client.secret.yk: YXA6jZU7E2P3oHnzjmyMh78RThd8eug
+#盈康测试
+im.app.name.yk: hykyk
+im.client.id.yk: YXA6kyiOgNWsEei9vEWZ3d8KWA
+im.client.secret.yk: YXA6XTaKXLrEb0bKjzcZxu2q0FJv_ZE
 
 
 
-#永慈
+#永慈测试
 
-im.app.name.yc: mediacalchat
-im.client.id.yc: YXA6BQ36oBthEei7yL97Qm1PlQ
-im.client.secret.yc: YXA6o8TIamQECTLTMvCupu3xP9wU5GE
+im.app.name.yc: hyk
+im.client.id.yc: YXA6-6-McNWrEeimMUVJEBsV4g
+im.client.secret.yc: YXA6dV2JSiycEID3WXN-NuhyaMhVYwo
 
 
 

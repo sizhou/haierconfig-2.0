@@ -1,21 +1,21 @@
 # 环信配置测试
-im.org.name: 1165181022177498
+im.org.name: 1117180227146208
 im.grant.type: client_credentials
 
 
 
 #盈康测试
-im.app.name.yk: hykyk
-im.client.id.yk: YXA6kyiOgNWsEei9vEWZ3d8KWA
-im.client.secret.yk: YXA6XTaKXLrEb0bKjzcZxu2q0FJv_ZE
+im.app.name.yk: chat-yk
+im.client.id.yk: YXA68htwsNWYEeitfek4S2-7jQ
+im.client.secret.yk: YXA6Mpb16vyWCy8RLJodEePwnigRO4k
 
 
 
 #永慈测试
 
-im.app.name.yc: hyk
-im.client.id.yc: YXA6-6-McNWrEeimMUVJEBsV4g
-im.client.secret.yc: YXA6dV2JSiycEID3WXN-NuhyaMhVYwo
+im.app.name.yc: chat-yc
+im.client.id.yc: YXA63JZBINWYEeiQJY2ubyavsg
+im.client.secret.yc: YXA61wfrUa5f3L7dEXLmLrMvtgObzuI
 
 
 
